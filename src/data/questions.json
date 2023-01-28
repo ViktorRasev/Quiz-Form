@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dwq4812",
+    "text": "Entomology is the science that studies",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "Behavior of human beings",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "The formation of rocks",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id":"9dfdd4h",
+    "text": "Golf player Vijay Singh belongs to which country?",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "Fiji",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "India",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "USA",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "151dfe8",
+    "text": "First China War was fought between",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "China and Britain",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "China and Egypt",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "China and Greek",
+        "isCorrect": false
+      }
+    ]
+  }
+]
